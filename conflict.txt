@@ -1,1 +1,1 @@
-team=alpha
+team=main-branch
