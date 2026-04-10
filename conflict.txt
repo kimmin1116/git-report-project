@@ -1,1 +1,1 @@
-team=main-branch
+team=main-and-feature
